@@ -1,0 +1,42 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 90%;
+}
+
+.vl {
+  border-left: 1px solid black;
+  /* margin-left: 3%; */
+  height: 2210px;
+  position: absolute;
+  top: 10%;
+  left: 7%;
+}
+.section-1 {
+  border: 1px solid;
+}
+
+form {
+  background-color: cornsilk;
+}
+.row-1 {
+  text-align: center;
+  background-color: rgb(168, 61, 61);
+  padding: 1%;
+  color: white;
+  font-weight: bold;
+}
+.asterisk {
+  color: red;
+}
+
+.info {
+  color: blue;
+}
+.style1 {
+  margin: 0 3%;
+}
+
+.style2 {
+  margin: 0 1%;
+}
